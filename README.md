@@ -2,14 +2,8 @@
 
 - [Predicting Wine Quality](#predicting-wine-quality)
   - [Introduction](#introduction)
-  - [Usage](#usage)
-  - [Learning](#learning)
-  - [Analysis](#analysis)
-    - [Why Supervised Learning?](#why-supervised-learning)
-    - [Why wine prediction?](#why-wine-prediction)
-    - [Benefits of wine prediction](#benefits-of-wine-prediction)
-    - [Research](#research)
-    - [Findings](#findings)
+  - [Directory structure](#Directory structure)
+  - [Findings](#Findings)
       - [Count vs Quality](#count-vs-quality)
       - [Pie Chart](#pie-chart)
       - [Citric Acid Feature](#citric-acid-feature)
@@ -20,23 +14,11 @@
 
 Created Machine Learning models to predict color of wine from the wine dataset. The dataset can be found from the citations folder. In this project, I have used python libraries such as numpy, pandas, matplotlib, seaborn, scikit learn. 
 
-## Usage
+## Directory structure
 
 The code is stored as a `jupyter` notebook. To run the code, please open the file in jupyter and use run all command to run the code.
 
-## Learning
-
-## Analysis
-
-### Why Supervised Learning?
-
-### Why wine prediction?
-
-### Benefits of wine prediction
-
-### Research
-
-### Findings
+## Findings
 
 #### Count vs Quality
 The below represents that in the dataset we have more average quality wines rather than the low/bad or high/good quality wine. A general observation, of a Gaussian distribution trend can be seen in the data.
