@@ -48,4 +48,10 @@ But in the dataset of red wines, these 2 features are not strongly correlated an
 
 ## Model Building
 
+Built a Logistic Regression model having an accuracy of 98.97%.
+
+Built a Random Forest classifier model having an accuracy of 99.10%.
+
+Built a Support Vector Machine model having an accuracy of 99.04%.
+
 ## Conclusion
