@@ -27,7 +27,7 @@ As part of Data Processing to clean the data, the duplicate rows were removed, u
 
 #### Count vs Quality
 
-The below plot reveals that there more average quality wines in comparison to the low and high quality ones.
+The below plot reveals that there are more average quality wines in comparison to the low and high quality ones.
 
 ![Count Vs Quality](https://github.com/nipun1992/Predicting-Wine-Quality/blob/main/pics/count%20vs%20quality.png)
 
