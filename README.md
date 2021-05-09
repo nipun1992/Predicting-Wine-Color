@@ -18,13 +18,7 @@
 
 ## Introduction
 
-Using supervised learning, in this project, predicting wine quality from the dataset that has been made available by Cortez. et Al from 2009. The dataset can be found from the citations
-folder. Throughout this project, we use different python libraries such as `pandas` for parsing and working with the datset, `seaborn` and `matplotlib` for using it for plotting, and
-`numpy` for working with the data. 
-
-For the machine learning aspect, the models were taken from `sklearn` and they have been trained on the dataset as mentioned above.
-
-We will build a supervised machine learning model to predict the color of wines whether the wine is white or red in color
+Created Machine Learning models to predict color of wine from the wine dataset. The dataset can be found from the citations folder. In this project, I have used python libraries such as numpy, pandas, matplotlib, seaborn, scikit learn. 
 
 ## Usage
 
@@ -67,4 +61,3 @@ In the heatmap, if there are any 2 independent features that are highly correlat
 Hence, We retained the features.
 
 ## Conclusion
-
