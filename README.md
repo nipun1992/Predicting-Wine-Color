@@ -3,6 +3,7 @@
 - [Predicting Wine Quality](#predicting-wine-quality)
   - [Introduction](#introduction)
   - [Directory structure](#directory-structure)
+  - [Data Processing](#Data-Processing)
   - [Findings](#Findings)
       - [Count vs Quality](#count-vs-quality)
       - [Pie Chart](#pie-chart)
