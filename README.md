@@ -26,7 +26,9 @@ As part of Data Processing to clean the data, the duplicate rows were removed, u
 ## Findings
 
 #### Count vs Quality
-The below represents that in the dataset we have more average quality wines rather than the low/bad or high/good quality wine. A general observation, of a Gaussian distribution trend can be seen in the data.
+
+The below plot reveals that there more average quality wines in comparison to the low and high quality ones.
+
 ![Count Vs Quality](https://github.com/nipun1992/Predicting-Wine-Quality/blob/main/pics/count%20vs%20quality.png)
 
 #### Pie Chart
