@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Created Machine Learning models to predict color of wine from the wine dataset. The dataset can be found from the citations folder. In this project, I have used python libraries such as numpy, pandas, matplotlib, seaborn, scikit learn. 
+Created Machine Learning models to predict color of wine from the wine dataset. In this project, I have used python libraries such as numpy, pandas, matplotlib, seaborn, scikit learn. 
 
 ## Directory structure
 
