@@ -9,9 +9,8 @@
       - [Pie Chart](#pie-chart)
       - [Citric Acid Feature](#citric-acid-feature)
       - [Correlation with Heatmap](#correlation-with-heatmap)
-   - [Model Building](#Model-Building)
-  - [Conclusion](#conclusion)
-
+  - [Model Building](#Model-Building)
+  
 ## Introduction
 
 Created Machine Learning models to predict color of wine from the wine dataset. In this project, I have used python libraries such as numpy, pandas, matplotlib, seaborn, scikit learn. 
@@ -53,5 +52,3 @@ Built a Logistic Regression model having an accuracy of 98.97%.
 Built a Random Forest classifier model having an accuracy of 99.10%.
 
 Built a Support Vector Machine model having an accuracy of 99.04%.
-
-## Conclusion
