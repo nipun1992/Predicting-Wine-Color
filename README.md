@@ -10,7 +10,7 @@
     - [Benefits of wine prediction](#benefits-of-wine-prediction)
     - [Research](#research)
     - [Findings](#findings)
-      - [Count vs Qualoty](#count-vs-quality)
+      - [Count vs Quality](#count-vs-quality)
       - [Pie Chart](#pie-chart)
       - [Citric Acid Feature](#citric-acid-feature)
       - [Correlation with Heatmap](#correlation-with-heatmap)
