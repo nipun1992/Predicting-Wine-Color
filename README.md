@@ -9,6 +9,7 @@
       - [Pie Chart](#pie-chart)
       - [Citric Acid Feature](#citric-acid-feature)
       - [Correlation with Heatmap](#correlation-with-heatmap)
+   - [Model Building](#Model-Building)
   - [Conclusion](#conclusion)
 
 ## Introduction
@@ -44,5 +45,7 @@ In the heatmap, if there are any 2 independent features that are highly correlat
 But in the dataset of red wines, these 2 features are not strongly correlated and thus we cannot drop any amongst these 2 features from the red wine dataset. 
 
 ![Heatmap](https://github.com/nipun1992/Predicting-Wine-Quality/blob/main/pics/heatmap.png)
+
+## Model Building
 
 ## Conclusion
