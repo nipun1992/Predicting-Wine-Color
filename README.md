@@ -17,7 +17,7 @@ Created Machine Learning models to predict color of wine from the wine dataset. 
 
 ## Directory structure
 
-The code is stored as a jupyter notebook Wine **quality Prediction-checkpoint.ipynb** inside **src** folder. To run the code, please open the file in jupyter and use run all command to run the code. The data is present at **src/data** location.
+The code is stored as a jupyter notebook Wine **Wine quality Prediction.ipynb** inside **src** folder. The data is present at **src/data** location.
 
 ## Data Processing
 
