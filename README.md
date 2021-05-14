@@ -1,4 +1,4 @@
-# Predicting Wine Quality 🍷
+# Predicting Wine color 🍷
 
 - [Predicting Wine color](#predicting-wine-color)
   - [Introduction](#introduction)
