@@ -1,6 +1,6 @@
 # Predicting Wine Quality 🍷
 
-- [Predicting Wine Quality](#predicting-wine-quality)
+- [Predicting Wine color](#predicting-wine-color)
   - [Introduction](#introduction)
   - [Directory structure](#directory-structure)
   - [Data Processing](#Data-Processing)
