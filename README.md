@@ -70,3 +70,23 @@ The libraries that we used to build this project are:
 - Model testing
 - Model evaluation
 - Hyperparameter tuning
+## Model Performance
+
+MODEL PERFORMANCE: 
+
+- The Logistic Regression model is yielding an accuracy score of 35.09% along with poor recall and precision scores on the test data.
+
+- The DecisionTreeClassifier model is yielding an accuracy of 97.17% along with recall and precision scores of 0.97 and 0.96 respectively on the test data.
+
+- The Gaussian Naive Bayes model is yielding an accuracy of 35.09% along with poor recall and precision scores on the test data.
+
+- The KNeighborsClassifier model is yielding an accuracy of 72.66% along with recall and precision scores of 0.78 and 0.77 respectively on the test data.
+
+- The RandomForestClassifier model is yielding an accuracy of 98.94% along with recall and precision scores of 0.98 and 0.99 respectively on the test data.
+
+- The SVM model is yielding an accuracy score of 
+35.45% along with recall and precision scores of 0.5 and 0.67 respectively on the test data.
+
+- The hyperparameter tuned Logistic Regression model with argument penalty = l2 and C=10 is yielding an accuracy score of 39.33% with poor recall and precision scores.
+
+- The hyperparameter tuned RandomForestClassifier model is yielding an accuracy score of 98.94% on the test data.
