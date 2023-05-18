@@ -74,18 +74,18 @@ The libraries that we used to build this project are:
 
 MODEL PERFORMANCE: 
 
-- The Logistic Regression model is yielding an accuracy score of 44.09% along with recall and precision scores 0.57 and 0.69 on the test data.
+- The Logistic Regression model is yielding an accuracy score of 99.29% along with recall and precision scores of 0.99 and 0.99 respectively on the test data.
 
-- The DecisionTreeClassifier model is yielding an accuracy of 96.47% along with recall and precision scores of 0.96 and 0.96 respectively on the test data.
+- The DecisionTreeClassifier model is yielding an accuracy of 96.82% along with recall and precision scores of 0.96 and 0.96 respectively on the test data.
 
-- The Gaussian Naive Bayes model is yielding an accuracy of 35.09% along with recall and precision scores of 0.5 and 0.175 on the test data.
+- The Gaussian Naive Bayes model is yielding an accuracy of 98.76% along with recall and precision scores of 0.98 and 0.99 on the test data.
 
-- The KNeighborsClassifier model is yielding an accuracy of 84.83% along with recall and precision scores of 0.88 and 0.84 respectively on the test data.
+- The KNeighborsClassifier model is yielding an accuracy of 99.47% along with recall and precision scores of 0.99 and 0.99 respectively on the test data.
 
-- The RandomForestClassifier model is yielding an accuracy of 98.41% along with recall and precision scores of 0.97 and 0.98 respectively on the test data.
+- The RandomForestClassifier model is yielding an accuracy of 98.76% along with recall and precision scores of 0.98 and 0.99 respectively on the test data.
 
-- The SVM model is yielding an accuracy score of 70.54% along with recall and precision scores of 0.77 and 0.77 respectively on the test data.
+- The SVM model is yielding an accuracy score of 99.47% along with recall and precision scores of 0.99 and 0.99 respectively on the test data.
 
-- The hyperparameter tuned Logistic Regression model with argument penalty = l2 and C=10 is yielding an accuracy score of 98.76% on the test data.
+- The hyperparameter tuned Logistic Regression model with argument penalty = l2 and C=10 is yielding an accuracy score of 98.94% on the test data.
 
-- The hyperparameter tuned RandomForestClassifier model is yielding an accuracy score of 98.59% on the test data.
+- The hyperparameter tuned RandomForestClassifier model is yielding an accuracy score of 98.41% on the test data.
